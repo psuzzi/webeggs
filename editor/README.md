@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=rHRBJKWbbw0
 Open problems
 For dragging we could use [drag](https://github.com/d3/d3-drag), which is used in [react-flow](https://github.com/wbkd/react-flow) ([see](https://reactflow.dev/))
 
+reacto flow is used [here](https://levelup.gitconnected.com/how-we-created-blocks-an-online-drag-and-drop-smart-contract-editor-fe23eff4d933)
+
+Wasm can use a number of libs for editing, e.g. [photon_rs](https://levelup.gitconnected.com/how-we-created-blocks-an-online-drag-and-drop-smart-contract-editor-fe23eff4d933), written in rust
 
 ## How to install
 
